@@ -76,7 +76,7 @@ class _QuickOperate(object):
         return rows, last_id
 
     def exec_sql(self, sql, *args, **kwargs):
-        return self.exec_sql(sql, *args, **kwargs)
+        return self.execute(sql, *args, **kwargs)
 
     def fetchone(self, sql, *args, **kwargs):
         kwargs.update(one=True)
