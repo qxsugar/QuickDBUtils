@@ -1,0 +1,10 @@
+README.md
+setup.py
+QuickDBUtils/SimpleDB.py
+QuickDBUtils/SqlTools.py
+QuickDBUtils/__init__.py
+QuickDBUtils.egg-info/PKG-INFO
+QuickDBUtils.egg-info/SOURCES.txt
+QuickDBUtils.egg-info/dependency_links.txt
+QuickDBUtils.egg-info/requires.txt
+QuickDBUtils.egg-info/top_level.txt
